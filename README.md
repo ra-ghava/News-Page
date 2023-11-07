@@ -14,4 +14,5 @@ News Page - Design Template
 
 
 
+![news-Design Template](https://github.com/ra-ghava/News-Page/assets/146189602/bf37cb65-3929-4a84-a773-85c58db464e2)
 
