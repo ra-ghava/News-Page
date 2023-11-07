@@ -37,10 +37,17 @@ News Page - Design Template
 
 
 
-Output 
+
 
 
 ![20](https://github.com/ra-ghava/News-Page/assets/146189602/126cdc9d-f409-4d26-9d85-66d2e3e54734)
+
+
+
+
+
+
+Output 
 
 
 
