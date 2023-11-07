@@ -54,3 +54,4 @@ Output
 
 
 
+![newspage - output](https://github.com/ra-ghava/News-Page/assets/146189602/791e2c11-7ca9-4dff-b49b-206d6ba145b1)
